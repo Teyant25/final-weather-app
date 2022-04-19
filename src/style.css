@@ -1,5 +1,9 @@
 body {
+  background: url(https://da28rauy2a860.cloudfront.net/wellbeing/wp-content/uploads/2020/01/28143614/sean-o-KMn4VEeEPR8-unsplash-800x532.jpg);
   font-family: Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
 }
 
 h1 {
